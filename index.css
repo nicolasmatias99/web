@@ -1,0 +1,66 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #951f2b;
+    align-items: center;
+    text-decoration: none;
+}
+header nav{
+    margin-right: 60px;
+}
+
+a {
+    padding: 20px;
+    color: #EDE7CB;
+    font-size: 25px;
+}
+
+header img{
+    display: flex;
+    height: 120px;
+    width: auto;
+    margin-left: 60px;
+    
+}
+body{
+    font-family: Libre Baskerville ,'Times New Roman', Times, serif;
+    font-size: 70px;
+    color: #951f2b;
+    background-image: url(vinedo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
+
+main img{
+    height: 400px;
+    width: 300px;
+    margin-top: 80px;
+    overflow:auto;
+    margin-left: 150px;
+    border-radius: 3%;
+    border-color: #951f2b;
+    border-style: groove;
+    border-width: 8px;
+}
+
+.imagenes {
+    display: flex;
+
+}
+.copa{
+    width: 500px;
+    height: 320px;
+    margin-top: 80px;
+    padding-left: 30px;
+    background-color: #EDE7CB;
+}
+
+h1{
+    font-family: Libre Baskerville ;
+    font-size: 50px;
+}
+p{
+    font-family: Libre Baskerville,Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
